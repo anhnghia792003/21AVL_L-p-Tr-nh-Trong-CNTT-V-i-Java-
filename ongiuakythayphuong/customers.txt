@@ -1,0 +1,5 @@
+1|nghia 1|Nam|12|A
+3|nghia 3|Nu|15|B
+4|nghia 4|Nam|16|O
+5|nghia 5|Nam|15|A
+6|nghia 6|Nu|17|O
